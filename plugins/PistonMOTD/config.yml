@@ -12,7 +12,7 @@
 description:
   activated: true
   text:
-    - "<center>&4Pie &4SMP: &9still under &2d&1e&5v&9elopment <newline>&l&4&kpie &r &l&1Survival &l&4&kpie"
+    - "<center>&4Pie &4SMP<newline>&l&4&kpie &r &l&1Join Now! &l&4&kpie"
 
 # Not supported on: Spigot (Paper works), Sponge
 version:
