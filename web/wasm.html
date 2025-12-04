@@ -30,7 +30,7 @@
 						assetsURI: "assets.epw",
 						worldsDB: "worlds",
 						servers: [
-							{ addr: "wss://"+window.location.origin.replace("https://","")+"/", name: "Pie SMP" }
+							{ addr: window.location.origin.replace("https","wss"), name: "§4§lPie §4§lSMP" }
 						],
 						relays: [
 							{ addr: "wss://relay.deev.is/", comment: "lax1dude relay #1", primary: relayId == 0 },
@@ -54,5 +54,6 @@
 			});
 		</script>
 	</head>
-	<body style="margin:0px;width:100%;height:100%;overflow:hidden;background-color:black;" id="game_frame"></body>
+	<body style="margin:0px;width:100%;height:100%;overflow:hidden;background-color:black;" id="game_frame"><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"9bec55dee4814fbdb80c2533420fcda1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
 </html>
