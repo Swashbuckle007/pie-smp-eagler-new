@@ -15,4 +15,4 @@ EXPOSE 25577
 # Define the command to run your BungeeCord server
 # Adjust BungeeCord.jar to your actual JAR file name
 # Adjust RAM allocation as needed (BungeeCord needs less than backend servers, often 512M to 1G)
-CMD ["java", "-Xms512M", "-Xmx512M", "-jar", "BungeeCord.jar"]
+CMD ["java", "-Xms512M", "-Xmx512M", "-jar", "bungee.jar"]
