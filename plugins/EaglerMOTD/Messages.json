@@ -8,10 +8,7 @@
       {
         "name": "default",
         "frames": [ 
-          "frames.frame1",
-          "frames.frame2",
-          "frames.frame3",
-          "frames.frame4"
+          "frames.frame1"
         ],
         "interval": 8,
         "random": false,
