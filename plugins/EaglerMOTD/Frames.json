@@ -1,0 +1,12 @@
+{
+	"frame1": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&4Pie SMP",
+		"text1": "&4 Join Now!"
+	},
+	
