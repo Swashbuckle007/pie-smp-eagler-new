@@ -1,4 +1,4 @@
-server_name: 'EaglercraftXServer'
+server_name: 'Pie SMP'
 server_uuid: '0e6678a8-6ad2-43ef-96b8-81b2ecb15f03'
 eagler_login_timeout: 10000
 http_max_initial_line_length: 4096
